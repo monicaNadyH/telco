@@ -1,0 +1,10 @@
+id: GBK-chatbot
+event_id: web
+event_organizer: dev-journeys
+runtimes:
+  - Cloud Foundry
+services:
+  - Conversation
+  - Discovery
+  - Natural Language Understanding
+  - Tone Analyzer
